@@ -1,0 +1,25 @@
+{
+  "storageUnits": [
+    {
+      "id": 1,
+      "length": 10,
+      "width": 5,
+      "height": 8,
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "length": 8,
+      "width": 6,
+      "height": 7,
+      "status": "occupied"
+    },
+    {
+      "id": 3,
+      "length": 12,
+      "width": 9,
+      "height": 10,
+      "status": "available"
+    }
+  ]
+}
